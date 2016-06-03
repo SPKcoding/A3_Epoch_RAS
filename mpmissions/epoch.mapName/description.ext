@@ -1,0 +1,133 @@
+#include "epoch_config\sandbox_config.hpp"
+
+
+
+//if _rasStyle = false
+class CfgSounds {
+	sounds[] = {};
+	class 01 {
+		name = "01";
+		sound[] = {"SPKcode\SPK_RAS\snd\01.ogg", 1.0, 1};
+		titles[] = {};
+	};
+	class 02 {
+        name = "02";
+        sound[] = {"SPKcode\SPK_RAS\snd\02.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 03 {
+        name = "03";
+        sound[] = {"SPKcode\SPK_RAS\snd\03.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 04 {
+        name = "04";
+        sound[] = {"SPKcode\SPK_RAS\snd\04.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 05 {
+        name = "05";
+        sound[] = {"SPKcode\SPK_RAS\snd\05.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 06 {
+        name = "06";
+        sound[] = {"SPKcode\SPK_RAS\snd\06.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 07 {
+        name = "07";
+        sound[] = {"SPKcode\SPK_RAS\snd\07.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 08 {
+        name = "08";
+        sound[] = {"SPKcode\SPK_RAS\snd\08.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 09 {
+        name = "09";
+        sound[] = {"SPKcode\SPK_RAS\snd\09.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 10 {
+        name = "10";
+        sound[] = {"SPKcode\SPK_RAS\snd\10.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 11 {
+        name = "11";
+        sound[] = {"SPKcode\SPK_RAS\snd\11.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 12 {
+        name = "12";
+        sound[] = {"SPKcode\SPK_RAS\snd\12.ogg", 1.0, 1};
+        titles[] = {};
+    };
+};
+
+//if _rasStyle = true
+class CfgMusic {
+	tracks[]={};
+	class 01 {
+        name = "01";
+        sound[] = {"SPKcode\SPK_RAS\snd\01.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 02 {
+        name = "02";
+        sound[] = {"SPKcode\SPK_RAS\snd\02.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 03 {
+        name = "03";
+        sound[] = {"SPKcode\SPK_RAS\snd\03.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 04 {
+        name = "04";
+        sound[] = {"SPKcode\SPK_RAS\snd\04.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 05 {
+        name = "05";
+        sound[] = {"SPKcode\SPK_RAS\snd\05.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 06 {
+        name = "06";
+        sound[] = {"SPKcode\SPK_RAS\snd\06.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 07 {
+        name = "07";
+        sound[] = {"SPKcode\SPK_RAS\snd\07.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 08 {
+        name = "08";
+        sound[] = {"SPKcode\SPK_RAS\snd\08.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 09 {
+        name = "09";
+        sound[] = {"SPKcode\SPK_RAS\snd\09.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 10 {
+        name = "10";
+        sound[] = {"SPKcode\SPK_RAS\snd\10.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 11 {
+        name = "11";
+        sound[] = {"SPKcode\SPK_RAS\snd\11.ogg", 1.0, 1};
+        titles[] = {};
+    };
+	class 12 {
+        name = "12";
+        sound[] = {"SPKcode\SPK_RAS\snd\12.ogg", 1.0, 1};
+        titles[] = {};
+    };
+};
