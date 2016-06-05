@@ -40,6 +40,6 @@ class cfgFunctions
 	};
 	
 	//RAS
-	#include "SPKcode_cfgClient.hpp"
+	#include "SPK_RAS_cfgClient.hpp"
 	
 };
